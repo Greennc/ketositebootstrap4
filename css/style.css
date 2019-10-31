@@ -1,0 +1,59 @@
+  @import url('https://fonts.googleapis.com/css?family=Indie+Flower|McLaren&display=swap');
+
+  #header {
+    background: url("https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1534&q=80");
+    background-position: center;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    height: 700px;
+
+  }
+
+  h1 {
+    color: black;
+    font-weight: 900;
+    font-family: 'Indie Flower', cursive;
+
+  }
+
+  #intro {
+    text-align: center;
+  }
+
+  .jumbotron text-center {
+    height: auto;
+  }
+
+  .lead {
+    font-weight: bolder;
+  }
+  .card {
+    background-color: #4b4f5a;
+    color: white;
+  }
+
+  .memes {
+  position: relative;
+  float: left;
+  width:  380px;
+  height: 380px;
+  background-position: 50% 50%;
+  background-repeat:   no-repeat;
+  background-size:     cover;
+}
+
+nav {
+  background: #4b4f5a;
+
+}
+a {
+  color: white;
+}
+
+a:hover {
+  color: gray;
+}
+
+.carousel-inner img {
+margin: auto;
+}
